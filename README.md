@@ -7,6 +7,43 @@ This repository highlights my expertise in Excel for data cleaning, analysis, an
 
 ---
 
+### **Latest Addition**: **Market vs Target Performance Details**
+
+#### **Purpose**  
+This section provides a detailed analysis of how various markets performed against their 2021 sales targets. It focuses on deviations and identifies areas requiring strategic improvement to achieve business objectives.
+
+#### **Key Features**  
+- **Sales Data (2019-2021)**: Includes a comparative analysis of sales growth trends over three years.  
+- **Market Performance vs. Targets**: Highlights markets with significant shortfalls or overperformance against 2021 targets.  
+- **Deviation Percentage**: Presents percentage deviations to identify underperforming regions at a glance.  
+
+#### **Insights from the Data**  
+1. **Top Performing Markets**:  
+   - **India**: Achieved 161.3M in sales, with the smallest deviation of -5.9%, showcasing a strong performance relative to its target.  
+   - **Philippines**: Demonstrated solid results with a deviation of -7.8%, reflecting steady growth.  
+
+2. **Underperforming Markets**:  
+   - **Poland**: Notable deviation of -18.1%, indicating a need for strategy realignment.  
+   - **Canada**: Deviation of -14.5%, representing one of the larger shortfalls in key markets.  
+   - **Spain**: Underperformed with a deviation of -14.1%, highlighting areas for potential improvement.
+
+3. **Global Overview**:  
+   - Total 2021 sales amounted to 598.9M, but a **-9.2% overall deviation** from targets indicates room for enhanced strategy execution across regions.
+
+#### **Actionable Recommendations**  
+- **Focus on High-Deviation Markets**: Allocate resources to regions like Poland, Canada, and Spain to bridge the performance gap.  
+- **Enhance High-Performing Regions**: Build on the successes of India and the Philippines to further strengthen their contributions.  
+- **Reevaluate Targets**: Consider revising targets for underperforming markets to align with realistic growth trajectories.  
+
+#### **Business Value**  
+By leveraging this performance data, organizations can:  
+- Identify growth opportunities in high-performing regions.  
+- Prioritize corrective actions in underperforming markets.  
+- Build data-driven strategies to achieve more consistent target alignment in future fiscal years.  
+
+---  
+
+
 ### **Latest Addition**: **Customer Performance Report**  
 - **Purpose**: This report compares customer performance metrics from 2021 versus 2020, highlighting key trends and changes in customer behavior and sales performance.  
 - **Key Features**:  
