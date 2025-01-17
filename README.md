@@ -7,6 +7,42 @@ This repository highlights my expertise in Excel for data cleaning, analysis, an
 
 ---
 
+### **Latest Addition**: **Customer Performance Report**  
+- **Purpose**: This report compares customer performance metrics from 2021 versus 2020, highlighting key trends and changes in customer behavior and sales performance.  
+- **Key Features**:  
+  - Year-over-year analysis of customer data (2021 vs. 2020).  
+  - Identifies growth patterns and underperforming segments.  
+  - Visualizations and summaries for actionable insights.  
+- **Business Value**: Helps in strategizing customer retention, identifying growth opportunities, and addressing gaps effectively.  
+
+---
+
+### **Key Skills and Highlights in Report**  
+
+#### 📊 **Data Cleaning and Combining**  
+- Prepared customer data for year-over-year comparison.  
+
+#### 📈 **Applying Business Math and Statistics**  
+- Conducted statistical analysis to measure growth rates and trends.  
+
+#### 🛠️ **Data Transformation with Power Query**  
+- Combined and refined datasets from 2020 and 2021 for accurate analysis.  
+
+#### 📌 **Working with Pivot Tables and Power Pivot**  
+- Created dynamic tables and charts for performance comparison.  
+
+#### 🔄 **Real-time Business Application**  
+- Delivered insights to support customer-focused strategies.  
+
+---
+
+### **How to Use**  
+1. Open the **Customer Performance Report** file.  
+2. Explore year-over-year metrics using provided tables and visualizations.  
+3. Utilize insights to inform strategic decisions on customer management.  
+
+---
+
 ### **Key Skills and Highlights**  
 
 #### 📊 **Data Cleaning and Combining**  
