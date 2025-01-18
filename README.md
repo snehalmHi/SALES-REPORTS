@@ -5,7 +5,40 @@
 ### **Overview**  
 This repository highlights my expertise in Excel for data cleaning, analysis, and business decision-making. It demonstrates proficiency in advanced tools like Power Query, Pivot Tables, and Power Pivot, with a focus on sales and financial analytics.  
 
+
 ---
+Here's an updated section for the README file that includes the **Top 5 and Bottom 5 Products Report** alongside the previously added insights:  
+
+---
+
+### **Latest Additions**:   
+ 
+
+#### **1. Top 10 Products Performance**  
+- **Purpose**: Highlights the performance of AtliQ's top 10 products from 2020 to 2021.  
+- **Key Insights**:  
+  - Total sales grew from **$6.4M** to **$52.0M** (708% growth).  
+  - Exceptional growth seen in:  
+    - **AQ Smash 2**: 2489.5% increase in sales.  
+    - **AQ Mx NB**: 5623.5% increase in sales.  
+    - **AQ LION Series (x1, x2, x3)**: Over 1600% growth across all models.  
+
+#### **2. Top 5 and Bottom 5 Products Report**  
+- **Purpose**: Provides an overview of the highest and lowest performing products by quantity sold.  
+- **Key Insights**:  
+  - **Top 5 Products**:  
+    - **AQ Master wired x1 Ms**: 4.2M units sold.  
+    - **AQ Master wireless x1 Ms**: 4.1M units sold.  
+    - Grand Total: **19.0M units** across the top 5 products.  
+  - **Bottom 5 Products**:  
+    - **AQ Gamer 1**: 51.7K units sold.  
+    - **AQ HOME Allin1 Gen 2**: 8.9K units sold.  
+    - Grand Total: **174.9K units** across the bottom 5 products.  
+- **Business Value**:  
+  - Insights help focus marketing and production efforts on high-performing products while addressing issues with lower-performing items.  
+
+---
+
 
 ### **Latest Addition**: **Market vs Target Performance Details**
 
